@@ -1,0 +1,2 @@
+# metodlar
+www.patika.dev
